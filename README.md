@@ -1,5 +1,4 @@
 ## Olá! Eu sou João Victor
-
 - 🔭 Atualmente Ténico de Suporte a T.I, além de, Desenvolvedor
 - 📚 Estudandno as conceitos necessários para me tornar desenvolvedor Full Stack
 - 😄 Pronouns: ele/dele
@@ -24,20 +23,20 @@
     
   </div>
   
-  <div style="display: inline\-block">
+  <div style="display:block">
     <h2>Ferramentas</h2><br>
     <img align="center" alt="devjohne-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
     <img align="center" alt="devjohne-VsCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
     <img align="center" alt="devjohne-AndroidStudio" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" />
   </div>
   
-  <div style="display: ">
+  <div>
     <h2>Sistemas Operacionais</h2><br>
     <img align="center" alt="devjohne-Windows" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" />
     <img align="center" alt="devjohne-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
     <img align="center" alt="devjohne-Android" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" />
-    <img align="center" alt="devjohne-MacOS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" />
-    <img align="right" alt="devjohne-pic" height="150" style="border-radius:50px;" src="##">
+    <img align="center" alt="devjohne-MacOS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" /> <br>
+    <img align="right" alt="devjohne-pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
   </div>
 </div>
 
