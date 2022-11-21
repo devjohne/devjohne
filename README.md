@@ -30,15 +30,18 @@
     <img align="center" alt="devjohne-AndroidStudio" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" />
   </div>
   
+  
+  <img align="right" alt="devjohne-pic" height="150" style="border-radius:20px;" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+  
+</div>
+  
   <div>
     <h2>Sistemas Operacionais</h2><br>
     <img align="center" alt="devjohne-Windows" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" />
     <img align="center" alt="devjohne-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
     <img align="center" alt="devjohne-Android" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" />
     <img align="center" alt="devjohne-MacOS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" /> <br>
-    <img align="right" alt="devjohne-pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
   </div>
-</div>
 
 ##
 
