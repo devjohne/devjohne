@@ -1,6 +1,6 @@
 ## Olá! Eu sou João Victor
 - 🔭 Atualmente Técnico de Suporte a T.I, além de, Desenvolvedor
-- 📚 Estudandno as conceitos necessários para me tornar desenvolvedor Full Stack
+- 📚 Estudando as conceitos necessários para tornar-me desenvolvedor Full Stack
 - 😄 Pronouns: ele/dele
 - 💡 Fun fact: Revisão de código com colegas permite a descoberta de até 60% dos erros.
 
